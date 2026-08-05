@@ -4,7 +4,7 @@
 
 **Answer:** Low pay is linked to leaving, and it holds even after accounting for tenure. It is a company-wide pay-level problem, not a department problem.
 
-![Departure rate by salary band](departure_rate_by_salary_band.png)
+![Departure rate by salary band](Departure_Rate_By_Salary_Band.png)
 
 *Company-wide across all departments. MySQL "employees" sample database, ~300k employees.*
 
